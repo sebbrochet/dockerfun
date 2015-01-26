@@ -15,7 +15,7 @@ This Dockerfile build an [openvas](http://www.openvas.org/) image based on Cento
    * An account for GSAD (Greenbone Security Assistant) admin user will  be created.   
      You have to supply corresponding user/password.
 
-* Open a browser to go to https://<DockerHostIP>:9392   
+* Open a browser to go to https://DockerHostIP:9392   
 
 * Login with previous account credentials   
 
