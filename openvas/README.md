@@ -12,7 +12,7 @@ This Dockerfile build an [openvas](http://www.openvas.org/) image based on Cento
    * Vulnerabilies definitions will be downloaded, this will take several minutes.
    * Be sure to allow outgoing rsync port access (tcp/873).
    * You will be asked if you *Allow connections from any IP*, answer Yes (it is the default).
-   * An account for GSAD (Greenbone Security Assistant) admin user will  be created.
+   * An account for GSAD (Greenbone Security Assistant) admin user will  be created.   
      You have to supply corresponding user/password.
 
 * Open a browser to go to https://<DockerHostIP>:9392   
